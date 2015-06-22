@@ -1,0 +1,34 @@
+{
+  "name": "optics",
+  "version": "0.0.1",
+  "description": "Optics for Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tel/js-optics.git"
+  },
+  "keywords": [
+    "lens",
+    "prism",
+    "iso",
+    "fold",
+    "traversal",
+    "getter",
+    "setters",
+    "optics",
+    "records",
+    "sum",
+    "product",
+    "tuple",
+    "either"
+  ],
+  "author": "Joseph Abrahamson <me@jspha.com>",
+  "license": "BSD3",
+  "bugs": {
+    "url": "https://github.com/tel/js-optics/issues"
+  },
+  "homepage": "https://github.com/tel/js-optics"
+}
